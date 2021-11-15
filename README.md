@@ -31,4 +31,4 @@ Here is my ProDesk 680 G3 MT specs:
 - usb2.0 only usb2.0
 - usb3.0 only usb3.0
 
-![Thanks Tonyx86](https://www.insanelymac.com/forum/topic/343937-guide-catalina-and-big-sur-on-hp-elitedesk-800-g4g5-mini-the-perfect-macmini81-hackintosh-clover-oc/)
+Thanks [Tonyx86](https://www.insanelymac.com/forum/topic/343937-guide-catalina-and-big-sur-on-hp-elitedesk-800-g4g5-mini-the-perfect-macmini81-hackintosh-clover-oc/)
