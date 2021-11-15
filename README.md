@@ -14,7 +14,7 @@ Here is my ProDesk 680 G3 MT specs:
 - 1 x HDMI（not test）
 - 4 x usb 2.0(front 2, rear 2)
 - 6 x usb 3.0(front 2, rear 4)
-- 1* type-c (front)
+- 1 x type-c (front)
 - Intel® I219LM Gigabit Network Connection LOM
 - I am not using Wi-Fi. 
 - Conexant CX20632 Audio Codec
