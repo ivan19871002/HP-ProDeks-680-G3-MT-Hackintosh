@@ -27,7 +27,6 @@ Here is my ProDesk 680 G3 MT specs:
 - macOS Monterey 12.0.1(OC 0.75)
 
 ## Known Issues:
-- Sleep is not working (Reboot or blackscreen when trying to wake it)
 - usb2.0 only usb2.0
 - usb3.0 only usb3.0
 
